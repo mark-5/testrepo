@@ -2,4 +2,4 @@ testrepo
 ========
 
 some more
-im just testing gihub
+im just testing github
