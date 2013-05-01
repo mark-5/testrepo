@@ -4,4 +4,4 @@ testrepo
 some more
 hello
 myaah
-im just testing gihub
+im just testing github
